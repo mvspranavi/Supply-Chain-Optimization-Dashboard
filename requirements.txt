@@ -1,0 +1,9 @@
+langchain
+langchain_groq
+pandas
+numpy
+pulp
+streamlit
+redis
+python-dotenv
+requests

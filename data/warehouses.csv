@@ -1,0 +1,3 @@
+warehouse_id,location,storage_cost_per_unit,capacity
+W1,LOC_X,0.05,2000
+W2,LOC_Y,0.04,1500

@@ -1,0 +1,3 @@
+supplier_id,location,capacity,cost_per_unit
+S1,LOC_A,1000,3.5
+S2,LOC_B,700,3.8

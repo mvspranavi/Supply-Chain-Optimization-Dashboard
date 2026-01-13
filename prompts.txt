@@ -1,0 +1,37 @@
+Suggest alternative routes to reduce cost
+
+Understanding the Results
+These help you interpret what the optimizer did and why.
+“Explain why the total cost is higher than expected.”
+“Summarize the main bottlenecks in the supply chain network.”
+“Which supplier–plant routes contribute the most to cost?”
+“How balanced is the production across plants?”
+“Describe the logic behind the chosen shipment routes.”
+
+Optimization Improvements
+These guide the AI to suggest what to tweak for better outcomes.
+“Suggest three ways to reduce total transportation cost.”
+“How can I improve supplier utilization efficiency?”
+“What if I increase Plant P2’s capacity — how will that affect cost?”
+“Propose alternative warehouse allocations to meet demand faster.”
+“If we relax lead time constraints by one day, what improvements can occur?”
+
+Sensitivity & Scenario Analysis
+Ask for what-if analyses or sensitivities.
+“Analyze the impact of increasing customer demand by 10%.”
+“Which parameter (transport cost or plant cost) has the biggest effect on total cost?”
+“If one supplier fails, what backup strategy would minimize disruption?”
+“Simulate the scenario where transportation cost rises by 15%.”
+
+Strategic Planning
+Ask it for more strategic business insights or long-term planning help.
+“Recommend an optimal warehouse location to add next year.”
+“Identify which suppliers should be prioritized for long-term contracts.”
+“What are the risks in the current logistics configuration?”
+“Suggest a 3-step plan to minimize both cost and delivery time.”
+
+Debugging or Data Sanity
+You can even ask it to reason about data itself.
+“Are there any inconsistencies or missing connections in the network?”
+“Why might the model return infeasible results?”
+“Check if demand is balanced properly with total supply.”
