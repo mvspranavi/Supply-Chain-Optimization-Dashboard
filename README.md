@@ -85,8 +85,3 @@ Add optimization solver (e.g., PuLP / OR-Tools)
 Integrate real-time logistics tracking API  
 Export network visualization as image or PDF  
 Add Monte Carlo simulation for risk analysis  
-
-Author  
-Muskan Sohaney  
-B.Tech CSE (AI & Analysis) | Data Analyst | AI/ML Enthusiast  
-
