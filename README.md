@@ -1,4 +1,4 @@
-#  Supply Chain Optimization Dashboard
+# 🤖 Supply Chain Optimization Dashboard
 
 An interactive **Streamlit-based web application** for visualizing, analyzing, and optimizing end-to-end supply chain networks.  
 It integrates data from multiple CSV sources (suppliers, plants, warehouses, customers, and transport routes) and uses AI-generated insights to suggest cost-saving strategies and performance improvements.
